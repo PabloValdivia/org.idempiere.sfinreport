@@ -31,5 +31,5 @@ SFinReport plugin for iDempiere Business Suite ERP/CRM/SCM
 
 ### Documentation ###
 -------------
-- User Guide https://github.com/pshepetko/org.idempiere.sfinreport/downloads/SmartFinReport_v7.1.pdf
+- User Guide https://github.com/pshepetko/org.idempiere.sfinreport/blob/master/downloads/SmartFinReport_v7.1.pdf
 
