@@ -17,6 +17,7 @@ SFinReport plugin for iDempiere Business Suite ERP/CRM/SCM
 - 2012 SmartJSP - Developed for ADempiere.
 - 2015 Freddy Heredia - Migrated to iDempiere v2.1.
 - 2019 Peter Shepetko, Maximea LTD - Migrated to iDempiere v6.2.
+- 2020 Peter Shepetko,   Migrated to iDempiere v7.1.
 
 
 ### Instructions ###
@@ -31,7 +32,7 @@ SFinReport plugin for iDempiere Business Suite ERP/CRM/SCM
 ### Documentation ###
 -------------
 <<<<<<< HEAD
-- User Guide https://bitbucket.org/pshepetko/org.idempiere.sfinreport/downloads/SmartFinReport_v6.2.pdf
+- User Guide https://bitbucket.org/pshepetko/org.idempiere.sfinreport/downloads/SmartFinReport_v7.1.pdf
 
 2020 https://wiki.idempiere.org/ Peterson2010
 =======
