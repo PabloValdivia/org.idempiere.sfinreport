@@ -7,7 +7,7 @@ SFinReport plugin for iDempiere Business Suite ERP/CRM/SCM
 
 ### Features ###
 --------
-- Repository: https://bitbucket.org/pshepetko/org.idempiere.sfinreport
+- Repository: https://github.com/pshepetko/org.idempiere.sfinreport
 - License: GPL 2
 - Version: 6.2.0
 
@@ -21,7 +21,7 @@ SFinReport plugin for iDempiere Business Suite ERP/CRM/SCM
 
 ### Instructions ###
 ------------
-- 1)download the SFinReport plugin from https://bitbucket.org/pshepetko/org.idempiere.sfinreport/downloads/
+- 1)download the SFinReport plugin from https://github.com/pshepetko/org.idempiere.sfinreport
 - 2) In Apache Felix Web Console: 
 - 2.1) Install plugin 
 - 2.2) Select file 
