@@ -9,7 +9,7 @@ SFinReport plugin for iDempiere Business Suite ERP/CRM/SCM
 --------
 - Repository: https://github.com/pshepetko/org.idempiere.sfinreport
 - License: GPL 2
-- Version: 6.2.0
+- Version: 7.1.0
 
 
 ### Contributors ###
@@ -32,7 +32,7 @@ SFinReport plugin for iDempiere Business Suite ERP/CRM/SCM
 ### Documentation ###
 -------------
 <<<<<<< HEAD
-- User Guide https://bitbucket.org/pshepetko/org.idempiere.sfinreport/downloads/SmartFinReport_v7.1.pdf
+- User Guide https://github.com/pshepetko/org.idempiere.sfinreport/downloads/SmartFinReport_v7.1.pdf
 
 2020 https://wiki.idempiere.org/ Peterson2010
 =======
